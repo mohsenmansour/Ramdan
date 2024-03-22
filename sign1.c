@@ -9,3 +9,6 @@
      printf("/%20d|\n", -K); // right justification with -ve sign 
      printf("|%-20d|\n", -K); // left justification with -ve sign 
  } 
+
+
+nmnmnnmmnnnmm
